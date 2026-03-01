@@ -82,4 +82,4 @@ Offset  Size  Field
 
 ## License
 
-MIT © 2024 GP_LIVE Project. Built for live audiovisual performances.
+copyleft © 2026 GP_LIVE Project. Built for live audiovisual performances.
