@@ -41,10 +41,6 @@
  *  and sat through the stale beer afternoon in desolate Fugazzi's,
  *  listening to the crack of doom on the hydrogen jukebox—
  *
- *  — after Allen Ginsberg, "Howl" (1956)
- *    [original poem paraphrased and transformed for machine-world context.
- *     Ginsberg's actual text is copyright the Estate of Allen Ginsberg.
- *     This version is an original composition by KRANK in his spirit.]
  *
  * ─────────────────────────────────────────────────────────────────────────────
  */
